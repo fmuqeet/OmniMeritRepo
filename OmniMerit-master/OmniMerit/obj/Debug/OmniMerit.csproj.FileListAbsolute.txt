@@ -1,0 +1,85 @@
+C:\Users\muqeet\Downloads\OmniMerit-master\OmniMerit-master\OmniMerit\bin\roslyn\csc.exe
+C:\Users\muqeet\Downloads\OmniMerit-master\OmniMerit-master\OmniMerit\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\muqeet\Downloads\OmniMerit-master\OmniMerit-master\OmniMerit\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\muqeet\Downloads\OmniMerit-master\OmniMerit-master\OmniMerit\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\muqeet\Downloads\OmniMerit-master\OmniMerit-master\OmniMerit\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\muqeet\Downloads\OmniMerit-master\OmniMerit-master\OmniMerit\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\muqeet\Downloads\OmniMerit-master\OmniMerit-master\OmniMerit\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\muqeet\Downloads\OmniMerit-master\OmniMerit-master\OmniMerit\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\muqeet\Downloads\OmniMerit-master\OmniMerit-master\OmniMerit\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\muqeet\Downloads\OmniMerit-master\OmniMerit-master\OmniMerit\bin\roslyn\vbc.exe
+C:\Users\muqeet\Downloads\OmniMerit-master\OmniMerit-master\OmniMerit\bin\roslyn\VBCSCompiler.exe
+C:\Users\muqeet\Downloads\OmniMerit-master\OmniMerit-master\OmniMerit\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\muqeet\Downloads\OmniMerit-master\OmniMerit-master\OmniMerit\bin\OmniMerit.dll.config
+C:\Users\muqeet\Downloads\OmniMerit-master\OmniMerit-master\OmniMerit\bin\OmniMerit.dll
+C:\Users\muqeet\Downloads\OmniMerit-master\OmniMerit-master\OmniMerit\bin\OmniMerit.pdb
+C:\Users\muqeet\Downloads\OmniMerit-master\OmniMerit-master\OmniMerit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\muqeet\Downloads\OmniMerit-master\OmniMerit-master\OmniMerit\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\muqeet\Downloads\OmniMerit-master\OmniMerit-master\OmniMerit\bin\Newtonsoft.Json.dll
+C:\Users\muqeet\Downloads\OmniMerit-master\OmniMerit-master\OmniMerit\bin\System.Net.Http.Formatting.dll
+C:\Users\muqeet\Downloads\OmniMerit-master\OmniMerit-master\OmniMerit\bin\System.Web.Helpers.dll
+C:\Users\muqeet\Downloads\OmniMerit-master\OmniMerit-master\OmniMerit\bin\System.Web.Http.dll
+C:\Users\muqeet\Downloads\OmniMerit-master\OmniMerit-master\OmniMerit\bin\System.Web.Http.WebHost.dll
+C:\Users\muqeet\Downloads\OmniMerit-master\OmniMerit-master\OmniMerit\bin\System.Web.Mvc.dll
+C:\Users\muqeet\Downloads\OmniMerit-master\OmniMerit-master\OmniMerit\bin\System.Web.Razor.dll
+C:\Users\muqeet\Downloads\OmniMerit-master\OmniMerit-master\OmniMerit\bin\System.Web.Webpages.Deployment.dll
+C:\Users\muqeet\Downloads\OmniMerit-master\OmniMerit-master\OmniMerit\bin\System.Web.Webpages.dll
+C:\Users\muqeet\Downloads\OmniMerit-master\OmniMerit-master\OmniMerit\bin\System.Web.Webpages.Razor.dll
+C:\Users\muqeet\Downloads\OmniMerit-master\OmniMerit-master\OmniMerit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\muqeet\Downloads\OmniMerit-master\OmniMerit-master\OmniMerit\bin\Newtonsoft.Json.xml
+C:\Users\muqeet\Downloads\OmniMerit-master\OmniMerit-master\OmniMerit\bin\System.Net.Http.Formatting.xml
+C:\Users\muqeet\Downloads\OmniMerit-master\OmniMerit-master\OmniMerit\bin\System.Web.Http.xml
+C:\Users\muqeet\Downloads\OmniMerit-master\OmniMerit-master\OmniMerit\bin\System.Web.Http.WebHost.xml
+C:\Users\muqeet\Downloads\OmniMerit-master\OmniMerit-master\OmniMerit\bin\System.Web.Razor.xml
+C:\Users\muqeet\Downloads\OmniMerit-master\OmniMerit-master\OmniMerit\bin\System.Web.Webpages.xml
+C:\Users\muqeet\Downloads\OmniMerit-master\OmniMerit-master\OmniMerit\bin\System.Web.Webpages.Deployment.xml
+C:\Users\muqeet\Downloads\OmniMerit-master\OmniMerit-master\OmniMerit\bin\System.Web.Webpages.Razor.xml
+C:\Users\muqeet\Downloads\OmniMerit-master\OmniMerit-master\OmniMerit\bin\System.Web.Helpers.xml
+C:\Users\muqeet\Downloads\OmniMerit-master\OmniMerit-master\OmniMerit\bin\System.Web.Mvc.xml
+C:\Users\muqeet\Downloads\OmniMerit-master\OmniMerit-master\OmniMerit\obj\Debug\OmniMerit.csprojResolveAssemblyReference.cache
+C:\Users\muqeet\Downloads\OmniMerit-master\OmniMerit-master\OmniMerit\obj\Debug\OmniMerit.dll
+C:\Users\muqeet\Downloads\OmniMerit-master\OmniMerit-master\OmniMerit\obj\Debug\OmniMerit.pdb
+C:\Users\muqeet\Desktop\ \DotNet\OmniMerit-master\OmniMerit-master\OmniMerit\bin\roslyn\csc.exe
+C:\Users\muqeet\Desktop\ \DotNet\OmniMerit-master\OmniMerit-master\OmniMerit\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\muqeet\Desktop\ \DotNet\OmniMerit-master\OmniMerit-master\OmniMerit\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\muqeet\Desktop\ \DotNet\OmniMerit-master\OmniMerit-master\OmniMerit\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\muqeet\Desktop\ \DotNet\OmniMerit-master\OmniMerit-master\OmniMerit\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\muqeet\Desktop\ \DotNet\OmniMerit-master\OmniMerit-master\OmniMerit\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\muqeet\Desktop\ \DotNet\OmniMerit-master\OmniMerit-master\OmniMerit\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\muqeet\Desktop\ \DotNet\OmniMerit-master\OmniMerit-master\OmniMerit\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\muqeet\Desktop\ \DotNet\OmniMerit-master\OmniMerit-master\OmniMerit\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\muqeet\Desktop\ \DotNet\OmniMerit-master\OmniMerit-master\OmniMerit\bin\roslyn\vbc.exe
+C:\Users\muqeet\Desktop\ \DotNet\OmniMerit-master\OmniMerit-master\OmniMerit\bin\roslyn\VBCSCompiler.exe
+C:\Users\muqeet\Desktop\ \DotNet\OmniMerit-master\OmniMerit-master\OmniMerit\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\muqeet\Desktop\ \DotNet\OmniMerit-master\OmniMerit-master\OmniMerit\bin\OmniMerit.dll.config
+C:\Users\muqeet\Desktop\ \DotNet\OmniMerit-master\OmniMerit-master\OmniMerit\bin\OmniMerit.dll
+C:\Users\muqeet\Desktop\ \DotNet\OmniMerit-master\OmniMerit-master\OmniMerit\bin\OmniMerit.pdb
+C:\Users\muqeet\Desktop\ \DotNet\OmniMerit-master\OmniMerit-master\OmniMerit\bin\EntityFramework.dll
+C:\Users\muqeet\Desktop\ \DotNet\OmniMerit-master\OmniMerit-master\OmniMerit\bin\EntityFramework.SqlServer.dll
+C:\Users\muqeet\Desktop\ \DotNet\OmniMerit-master\OmniMerit-master\OmniMerit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\muqeet\Desktop\ \DotNet\OmniMerit-master\OmniMerit-master\OmniMerit\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\muqeet\Desktop\ \DotNet\OmniMerit-master\OmniMerit-master\OmniMerit\bin\Newtonsoft.Json.dll
+C:\Users\muqeet\Desktop\ \DotNet\OmniMerit-master\OmniMerit-master\OmniMerit\bin\System.Net.Http.Formatting.dll
+C:\Users\muqeet\Desktop\ \DotNet\OmniMerit-master\OmniMerit-master\OmniMerit\bin\System.Web.Helpers.dll
+C:\Users\muqeet\Desktop\ \DotNet\OmniMerit-master\OmniMerit-master\OmniMerit\bin\System.Web.Http.dll
+C:\Users\muqeet\Desktop\ \DotNet\OmniMerit-master\OmniMerit-master\OmniMerit\bin\System.Web.Http.WebHost.dll
+C:\Users\muqeet\Desktop\ \DotNet\OmniMerit-master\OmniMerit-master\OmniMerit\bin\System.Web.Mvc.dll
+C:\Users\muqeet\Desktop\ \DotNet\OmniMerit-master\OmniMerit-master\OmniMerit\bin\System.Web.Razor.dll
+C:\Users\muqeet\Desktop\ \DotNet\OmniMerit-master\OmniMerit-master\OmniMerit\bin\System.Web.Webpages.Deployment.dll
+C:\Users\muqeet\Desktop\ \DotNet\OmniMerit-master\OmniMerit-master\OmniMerit\bin\System.Web.Webpages.dll
+C:\Users\muqeet\Desktop\ \DotNet\OmniMerit-master\OmniMerit-master\OmniMerit\bin\System.Web.Webpages.Razor.dll
+C:\Users\muqeet\Desktop\ \DotNet\OmniMerit-master\OmniMerit-master\OmniMerit\bin\EntityFramework.xml
+C:\Users\muqeet\Desktop\ \DotNet\OmniMerit-master\OmniMerit-master\OmniMerit\bin\EntityFramework.SqlServer.xml
+C:\Users\muqeet\Desktop\ \DotNet\OmniMerit-master\OmniMerit-master\OmniMerit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\muqeet\Desktop\ \DotNet\OmniMerit-master\OmniMerit-master\OmniMerit\bin\Newtonsoft.Json.xml
+C:\Users\muqeet\Desktop\ \DotNet\OmniMerit-master\OmniMerit-master\OmniMerit\bin\System.Net.Http.Formatting.xml
+C:\Users\muqeet\Desktop\ \DotNet\OmniMerit-master\OmniMerit-master\OmniMerit\bin\System.Web.Http.xml
+C:\Users\muqeet\Desktop\ \DotNet\OmniMerit-master\OmniMerit-master\OmniMerit\bin\System.Web.Http.WebHost.xml
+C:\Users\muqeet\Desktop\ \DotNet\OmniMerit-master\OmniMerit-master\OmniMerit\bin\System.Web.Razor.xml
+C:\Users\muqeet\Desktop\ \DotNet\OmniMerit-master\OmniMerit-master\OmniMerit\bin\System.Web.Webpages.xml
+C:\Users\muqeet\Desktop\ \DotNet\OmniMerit-master\OmniMerit-master\OmniMerit\bin\System.Web.Webpages.Deployment.xml
+C:\Users\muqeet\Desktop\ \DotNet\OmniMerit-master\OmniMerit-master\OmniMerit\bin\System.Web.Webpages.Razor.xml
+C:\Users\muqeet\Desktop\ \DotNet\OmniMerit-master\OmniMerit-master\OmniMerit\bin\System.Web.Helpers.xml
+C:\Users\muqeet\Desktop\ \DotNet\OmniMerit-master\OmniMerit-master\OmniMerit\bin\System.Web.Mvc.xml
+C:\Users\muqeet\Desktop\ \DotNet\OmniMerit-master\OmniMerit-master\OmniMerit\obj\Debug\OmniMerit.dll
+C:\Users\muqeet\Desktop\ \DotNet\OmniMerit-master\OmniMerit-master\OmniMerit\obj\Debug\OmniMerit.pdb

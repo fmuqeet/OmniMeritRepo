@@ -1,0 +1,159 @@
+﻿<div id="fh5co-page">
+    <header id="fh5co-header" role="banner">
+
+        <div class="header-inner">
+            <a href="/../">
+                <img src="~/Scripts/images/logo final.png" class="logo" style="float:left; margin-right:1%; height:97px" />
+            </a>
+            <h1><a href="/../">OmniMerit<span></span></a></h1>
+            <p style="float:left; margin-top: 50px;color: greenyellow;margin-left: -156px;">Integrating Noble values </p>
+
+
+
+
+            <nav role="navigation">
+                <ul>
+
+
+                    <li><a href="../">Home</a></li>
+
+                    <li><a href="../#fh5co-why-us">About us</a></li>
+                    <li><a href="#fh5co-footer">Contact Us </a></li>
+                    <li><a href="#fh5co-courses">Courses</a></li>
+                    <li><a href="../">Career</a></li>
+
+                </ul>
+            </nav>
+        </div>
+
+    </header>
+
+    <aside id="fh5co-hero" class="js-fullheight">
+        <div class="flexslider js-fullheight">
+            <ul class="slides">
+                <li style="background-image: url(../../Scripts/images/slide_1.jpg);">
+                    <div class="overlay-gradient"></div>
+                    <div class="container">
+                        <div class="col-md-10 col-md-offset-1 text-center js-fullheight slider-text">
+                            <div class="slider-text-inner">
+                                <h2>It’s work that matters.</h2>
+
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li style="background-image: url(../../Scripts/images/slide_3.jpg);">
+                    <div class="container">
+                        <div class="col-md-10 col-md-offset-1 text-center js-fullheight slider-text">
+                            <div class="slider-text-inner">
+                                <h2>We work as a team</h2>
+
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li style="background-image: url(../../Scripts/images/slide_2.jpg);">
+                    <div class="container">
+                        <div class="col-md-10 col-md-offset-1 text-center js-fullheight slider-text">
+                            <div class="slider-text-inner">
+                                <h2>You’ll work with creative people.</h2>
+
+                            </div>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </aside>
+
+
+    <div class="fh5co-contact animate-box">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 text-center animate-box">
+
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-3">
+                    <h3>Contact Info.</h3>
+                    <ul class="contact-info">
+
+                        <li><i class="icon-phone"></i>+91 98102 72159</li>
+                        <li><i class="icon-envelope"></i><a href="#">info@omnimerit.com</a></li>
+                        <li><i class="icon-globe"></i><a href="#">www.omnimerit.com</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-8 col-md-push-1 col-sm-12 col-sm-push-0 col-xs-12 col-xs-push-0">
+                    @using (Html.BeginForm("ResumeUpload",
+                    "Default",
+                    FormMethod.Post,
+                    new { enctype = "multipart/form-data" }))
+                {
+
+                <div class="row">
+                    <div class="text-center">
+                        <h3> Join Our League.</h3>
+                        <p>
+
+                            Upload Your resume and we will Get back to you.
+                        </p>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group">
+
+                            <input type="text" class="form-control" placeholder="Name" name="name" required>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <input class="form-control" placeholder="Email" type="email" name="email" required>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <input class="form-control" type="file" placeholder="Resume" id="choose-file" name="file" />
+                        </div>
+                    </div>
+
+
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <a href="#success" data-toggle="modal">
+                                <input value="Submit" class="btn btn-primary" type="submit">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                }
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="success" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header modal-header-success">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                    <h1><i class="glyphicon glyphicon-thumbs-up"></i> Success Modal</h1>
+                </div>
+                <div class="modal-body">
+                    Thank you For Showing your Interest. We Will Get Back to you.
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default pull-left" data-dismiss="modal">Close</button>
+                </div>
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+    <!-- Modal -->
+
+
+
+    </div>
+
+
