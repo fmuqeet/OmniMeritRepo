@@ -83,3 +83,4 @@ C:\Users\muqeet\Desktop\ \DotNet\OmniMerit-master\OmniMerit-master\OmniMerit\b
 C:\Users\muqeet\Desktop\ \DotNet\OmniMerit-master\OmniMerit-master\OmniMerit\bin\System.Web.Mvc.xml
 C:\Users\muqeet\Desktop\ \DotNet\OmniMerit-master\OmniMerit-master\OmniMerit\obj\Debug\OmniMerit.dll
 C:\Users\muqeet\Desktop\ \DotNet\OmniMerit-master\OmniMerit-master\OmniMerit\obj\Debug\OmniMerit.pdb
+C:\Users\muqeet\Desktop\ \DotNet\OmniMerit-master\OmniMerit-master\OmniMerit\obj\Debug\OmniMerit.csprojResolveAssemblyReference.cache
