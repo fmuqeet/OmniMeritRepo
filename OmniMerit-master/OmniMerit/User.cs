@@ -11,28 +11,14 @@ namespace OmniMerit
 {
     using System;
     using System.Collections.Generic;
-    using System.ComponentModel.DataAnnotations;
-
+    
     public partial class User
     {
         public int UserID { get; set; }
-        [Required(ErrorMessage = "Please provide Full Name", AllowEmptyStrings = false)]
         public string FullName { get; set; }
-        [Required(ErrorMessage = "Please provide Email ID", AllowEmptyStrings = false)]
-        [RegularExpression(@"^[a-z0-9!#$%&'*+/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?",
-            ErrorMessage = "Email ID not valid.")]
         public string EmailID { get; set; }
-        [Required(ErrorMessage = "Please provide username.", AllowEmptyStrings = false)]
         public string Username { get; set; }
-        [Required(ErrorMessage = "Please provide Password", AllowEmptyStrings = false)]
-        [DataType(System.ComponentModel.DataAnnotations.DataType.Password)]
-        [StringLength(50, MinimumLength = 8, ErrorMessage = "Password must be 8 char long.")]
         public string Password { get; set; }
-        [Required(ErrorMessage = "Please confirm Password")]
-        [Compare("Password", ErrorMessage = "Confirm Password does not match.")]
-        [DataType(System.ComponentModel.DataAnnotations.DataType.Password)]
-        public string ConfirmPassword { get; set; }
-        [Required(ErrorMessage = "Please select Class", AllowEmptyStrings = false)]
         public string Class { get; set; }
     }
 }
